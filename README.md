@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariaBarnils11
-- 👀 I’m interested in data engineering
+- 👀 I’m interested in data engineering, machine learning, deep learning, SQL...
 - 📫 How to reach me: contact me mariabarnils1@gmail.com
 
 <!---
